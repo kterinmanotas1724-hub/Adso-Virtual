@@ -71,6 +71,7 @@ public class DonAndres {
     }
 
     public static void main(String[] args) {
+        JOptionPane.showMessageDialog(null, "Bienvenido a la tienda Don Andrés, gracias por tu compra");
         DonAndres tienda = new DonAndres();
         tienda.vender();
     }
