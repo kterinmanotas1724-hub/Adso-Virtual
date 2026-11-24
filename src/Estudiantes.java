@@ -1,8 +1,4 @@
-//ESTUDIANTES
-// Source code recreated from a .class file by IntelliJ IDEA
-// (powered by Fernflower decompiler)
-//
-
+// Enunciado 2: Registro de Estudiantes y riesgo académico
 import java.awt.Component;
 import javax.swing.JOptionPane;
 
